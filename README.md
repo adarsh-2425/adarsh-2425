@@ -6,7 +6,7 @@ Software Developer
 
 * 🌍  I'm based in Kerala, India
 * 🖥️  See my portfolio at [here](http://adarsh-2425.github.io/New-Portfolio)
-* 🧠  I'm learning C++ and DSA
+* 🧠  I'm learning JavaScript and DSA.
 * ⚡  "People Keep Asking If I'm Back, And I Haven't Really Had An Answer. But Now, Yeah! I'm Thinking I'm Back!"
 
 ### Skills
