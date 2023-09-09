@@ -5,7 +5,7 @@ Software Developer
 ------------------
 
 * 🌍  I'm based in Kerala, India
-* 🧠  I'm learning NestJS
+*  I'm learning NestJS
 
 
 ### Skills
