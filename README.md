@@ -5,8 +5,8 @@ Software Developer
 ------------------
 
 * 🌍  I'm based in Kerala, India
-* 🧠  I'm learning MongoDB
-* ⚡  "People Keep Asking If I'm Back, And I Haven't Really Had An Answer. But Now, Yeah! I'm Thinking I'm Back!"
+* 🧠  I'm learning NestJS
+
 
 ### Skills
 
